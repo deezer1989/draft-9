@@ -35,6 +35,19 @@ author: Delia Franklin
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
 metadata: dfdofinal
+metadata-fields-display:
+  - objectid
+  - filename
+  - format
+  - medium
+  - title
+  - creator
+  - date_acquired
+  - description
+  - acquisition_type
+  - physical_location
+  - subject
+  - notes
 
 ##########
 # Site/Organization Branding 
