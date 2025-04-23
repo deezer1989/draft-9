@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link
-objectid,Object ID
-filename,Filename
-format,Format
-medium,Medium
-title,Title
-creator,Creator
-date_acquired,Date Acquired
-description,Description
-acquisition_type,Acquisition Type
-physical_location,Physical Location
-subject,Subject
-notes,Notes
+objectid,Object ID,na,na
+filename,Filename,na,na
+format,Format,na,na
+medium,Medium,na,na
+title,Title,na,na
+creator,Creator,na,na
+date_acquired,Date Acquired,na,na
+description,Description,na,na
+acquisition_type,Acquisition Type,na,na
+physical_location,Physical Location,na,na
+subject,Subject,na,na
+notes,Notes,na,na
